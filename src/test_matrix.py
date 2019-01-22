@@ -1,6 +1,6 @@
 import numpy as np 
 from scipy.sparse import csr_matrix
-#Esta es la primera versión en git
+#Esta es la segundo version, que pasará
 
 indptr = np.array([0, 2, 3, 6])
 indices = np.array([0, 2, 2, 0, 1, 2])
